@@ -1,2 +1,2 @@
 # Twitch-Stream-End-Prediction
-Twitch Stream End Time Prediction with Streaming Data
+This project is being done for KTH ID2221 Data-Intensive Computing course. Codes will be uploaded after the project is done.
